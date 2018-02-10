@@ -5,7 +5,7 @@
     String pass = request.getParameter("password");
     System.out.print("name="+name);
     System.out.print("password="+pass);
-    boolean isLoginSuccess = ("abc".equals(name) && "123456".equals(pass));
+    boolean isLoginSuccess = ("Endora".equals(name) && "123456".equals(pass));
     System.out.print("isLoginSuccess="+isLoginSuccess);
     if(isLoginSuccess)
     {

@@ -17,7 +17,7 @@
 
 <p>This Demo works only under https</p>
 <form action="login_authentication.jsp" method="post">
-    <input type="text" name="user" placeholder="User Name: (abc)"/>
+    <input type="text" name="user" placeholder="User Name: (Endora)"/>
     <br/>
     <br/>
     <input type="password" name="password" placeholder="password (123456)"/>
